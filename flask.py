@@ -1,6 +1,6 @@
 from flask import Flask
 
-app = Flask("Scrapper")
+app = Flask("JobScrapper")
 
 
 @app.route("/")
